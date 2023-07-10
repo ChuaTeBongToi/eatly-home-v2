@@ -560,7 +560,6 @@ hr {
 }
 
 .savings-price {
-    position: fixed;
     text-align: right;
     margin-left: 170px;
     color: var(--greyscale-900, #1A202C);
